@@ -18,7 +18,6 @@ if (salario <= 280){
 aumento = salario * aumentoPorcento
 novoSalario = salario + aumento
 
-// Exibe as informações
 console.log(`Salário antes do reajuste: R$ ${salario.toFixed(2)}`)
 console.log(`Valor do aumento: R$ ${aumento.toFixed(2)}`)
 console.log(`Novo salário, após o aumento: R$ ${novoSalario.toFixed(2)}`)
