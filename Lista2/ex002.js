@@ -10,4 +10,3 @@ if(idade < 16){
 } else {
     console.log("Eleitor Facultativo")
 }
-
